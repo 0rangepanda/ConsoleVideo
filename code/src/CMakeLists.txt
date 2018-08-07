@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY("./libs")
+ADD_SUBDIRECTORY("./test")
+ADD_SUBDIRECTORY("./app")
