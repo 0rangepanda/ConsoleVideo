@@ -5,3 +5,4 @@ server
 code/.DS_Store
 code/bin
 code/build
+code/lib/mylib
